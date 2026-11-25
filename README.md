@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Faizan Manzoor 👋
 
-<!--
-**faizan1024/faizan1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Software Developer | C# / .NET
 
-Here are some ideas to get you started:
+I’m a backend software developer based in Offenbach am Main, Germany. I work with C# and .NET and have experience supporting and developing web platforms for public-sector and enterprise organizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-faizan1024-181717?logo=github)](https://github.com/faizan1024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizan%20Manzoor-0A66C2?logo=linkedin)](https://www.linkedin.com/in/faizan-manzoor/)
+
+## 🛠️ Technologies
+
+- C# / .NET
+- ASP.NET
+- SQL Server
+- Bootstrap
+- Telerik RadControls
+- Infragistics
+- TFS
+
+## 💼 Selected Work
+
+### Web Developer — Edenred
+- [Kunde Edenred](https://kunde.edenred.de)
+- [Nutzer Edenred](https://nutzer.edenred.de)
+
+### Software Engineer / Support Team — Punjab Revenue Authority
+- [Punjab Revenue Authority](https://pra.punjab.gov.pk)
+- [Sindh Revenue Board](https://www.srb.gos.pk)
+- [BRA Taxpayer Facilitation Portal](https://bra.gob.pk)
+- [Khyber Pakhtunkhwa Revenue Authority](https://kpra.gov.pk)
+
+## 🎓 Education
+
+**BSc in Computer Science**  
+University of Arid Agriculture, Pakistan · 2011–2015
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/faizan-manzoor/)
+- Email: faizan.manzoor1024@yahoo.com
